@@ -1,7 +1,7 @@
 {
     "name": "socket-chat-example",
     "version": "0.0.1",
-    "main": "index.js",
+    "main": "server.js",
     "repository": "https://github.com/GiuZambot/chat-socketio-nodejs",
     "licence": "MIT",
     "description": "my first socket.io app",
